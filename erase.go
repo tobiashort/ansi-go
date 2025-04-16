@@ -7,6 +7,6 @@ const (
 	EraseFromCursorToStartOfScreen EraseFunction = "\033[1J"
 	EraseEntireScreen              EraseFunction = "\033[2J"
 	EraseFromCursorToEndOfLine     EraseFunction = "\033[0K"
-	EraseFromCursotToStartOfLine   EraseFunction = "\033[1K"
+	EraseFromCursorToStartOfLine   EraseFunction = "\033[1K"
 	EraseEntireLine                EraseFunction = "\033[2K"
 )
