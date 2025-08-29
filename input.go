@@ -8,6 +8,7 @@ const (
 	InputCRLF      = "\x0A\x0D"
 	InputSpace     = "\x20"
 	InputBackSpace = "\x08"
+	InputDelete    = "\x7f"
 	InputKeyUp     = "\033[A"
 	InputKeyDown   = "\033[B"
 	InputKeyRight  = "\033[C"
