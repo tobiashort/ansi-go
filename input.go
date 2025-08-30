@@ -13,4 +13,6 @@ const (
 	InputKeyDown   = "\033[B"
 	InputKeyRight  = "\033[C"
 	InputKeyLeft   = "\033[D"
+	InputTab       = "\x09"
+	InputShiftTab  = "\033[Z"
 )
